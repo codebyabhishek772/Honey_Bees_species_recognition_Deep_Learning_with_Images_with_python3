@@ -1,0 +1,7 @@
+downlord any one of format
+1)notebook.ipynb for jupyter notebook format
+2)notebook.py for idea or Virtual studio code editor
+3)notebook.html for webbrower to copy the code...
+
+
+Thank you..........
